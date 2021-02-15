@@ -18,4 +18,4 @@
 3) Certification: CCIE DC, CKA&D, VCIX-NV6 and others.
 
 
-4) If you interest about me more! [Linkedin] (https://www.linkedin.com/in/hoonjo/), [github](https://github.com/sysnet4admin)
+4) If you interest about me more! [Linkedin](https://www.linkedin.com/in/hoonjo/), [github](https://github.com/sysnet4admin)
