@@ -10,12 +10,11 @@
                                   , [Ansible](https://cutt.ly/Pj5pm1K)
                                   , **Kubernetes**(TBD) 
 
+2) Technical Trainer: [Kubernetes](https://3.ly/a8XqW)
+                                  , [Ansible](https://www.inflearn.com/roadmaps/45)
 
-2) Speaker: [k8s On-Prem LB](https://cutt.ly/tj5pOmY), [Ansible Net Auto](https://cutt.ly/1j5pS3Y), [Python Net Auto](https://cutt.ly/Sj5pfgf)
+3) Speaker: [k8s On-Prem LB](https://cutt.ly/tj5pOmY), [Ansible Net Auto](https://cutt.ly/1j5pS3Y), [Python Net Auto](https://cutt.ly/Sj5pfgf)
 
+4) Certification: CCIE DC, CKA&D, VCIX-NV6 and others.
 
-
-3) Certification: CCIE DC, CKA&D, VCIX-NV6 and others.
-
-
-4) If you interest about me more! [Linkedin](https://www.linkedin.com/in/hoonjo/), [github](https://github.com/sysnet4admin)
+5) If you interest about me more! [Linkedin](https://www.linkedin.com/in/hoonjo/), [github](https://github.com/sysnet4admin)
