@@ -8,7 +8,7 @@
 
 1) Technical Writer - [Python](https://cutt.ly/Zj5pxTZ)
                                   , [Ansible](https://cutt.ly/Pj5pm1K)
-                                  , [Kubernetes](http://www.yes24.com/Product/Goods/102099414) 
+                                  , [Kubernetes](https://cutt.ly/4mRngei) 
 
 2) Technical Trainer - [Kubernetes](https://3.ly/a8XqW)
                                   , [Ansible](https://www.inflearn.com/roadmaps/45)
