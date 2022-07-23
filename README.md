@@ -10,7 +10,7 @@
                                   , [Ansible](https://cutt.ly/Pj5pm1K)
                                   , [Kubernetes](https://cutt.ly/4mRngei) 
 
-2) Technical Trainer - [Kubernetes](https://3.ly/a8XqW)
+2) Technical Trainer - [Kubernetes](https://url.kr/k8s)
                                   , [Ansible](https://www.inflearn.com/roadmaps/45)
 
 3) Speaker - [k8s On-Prem LB](https://cutt.ly/tj5pOmY), [Ansible Net Auto](https://cutt.ly/1j5pS3Y), [Python Net Auto](https://cutt.ly/Sj5pfgf)
