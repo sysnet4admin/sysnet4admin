@@ -9,4 +9,11 @@
 </p>
 
 ***
-If you interest about me more! [Linkedin](https://www.linkedin.com/in/hoonjo/), [github](https://github.com/sysnet4admin)
+**Documents:** 
+  - [CNCF Gitbook by Hoon *Mostly k8s](https://sysnet4admin.gitbook.io/cncf) 
+  - [Cloud Gitbook by Hoon](https://sysnet4admin.gitbook.io/cloud)
+  
+**Channels:**
+  - [Linkedin](https://www.linkedin.com/in/hoonjo/)
+  - [Github](https://github.com/sysnet4admin)
+  - [Youtube](https://www.youtube.com/HoonJo) 
