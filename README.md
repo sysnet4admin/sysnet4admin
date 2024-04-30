@@ -1,7 +1,7 @@
 ## CNCF Ambassador  |  Cloud Native Engineer
 
 <p align="left">
-<img src="https://images.credly.com/size/680x680/images/faa0c895-889a-4ef0-a2fb-516e0abe9c97/image.png"                     width="120">
+<img src="https://images.credly.com/size/680x680/images/5302cfb2-cecd-410f-8a23-7a29a9f11ccb/image.png"                     width="120">
 <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubestronaut-stacked-color.png"                                    width="120">
 <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120">
 <img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"        width="120">
