@@ -3,7 +3,7 @@
 <p align="left">
 <img src="https://images.credly.com/size/680x680/images/5302cfb2-cecd-410f-8a23-7a29a9f11ccb/image.png"                     width="120">
 <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubestronaut-stacked-color.png"                                    width="120">
-<img src="https://www.credly.com/earner/earned/badge/4b6c6b62-cf1d-40dd-a186-ddbdebe62bc9"                                  width="120">
+<img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"                     width="120">
 <img src="https://images.credly.com/size/680x680/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png"     width="120">
 </p>
 
