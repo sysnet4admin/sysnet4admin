@@ -7,7 +7,7 @@
   
 <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"                     width="150">
  
-<img src="https://images.credly.com/size/680x680/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png"     width="180">
+<img src="https://images.credly.com/size/680x680/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png"     width="160">
 </p>
 
 ***
