@@ -1,4 +1,4 @@
-## CNCF & AAIF Ambassador  |  Cloud Native & AI Engineer
+## CNCF & AAIF Ambassador  |  AI & Cloud Native Engineer
 
 <p align="left">
 <img src="./assets/cncf_ambassador_circle.png"                                                                             width="150">
