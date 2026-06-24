@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"                     width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ccie_rounded.png"                                                                                       width="160">
+<img src="./assets/ccie_square.png"                                                                                        width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/aaif_ambassador_white.png">
