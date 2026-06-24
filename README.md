@@ -9,10 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/ccie_square.png"                                                                                        width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/aaif_ambassador_white.png">
-  <img src="./assets/aaif_ambassador_colour.png"                                                                            width="135">
-</picture>
+<img src="./assets/aaif_ambassador.png"                                                                                    width="135">
 </p>
 
 ***
