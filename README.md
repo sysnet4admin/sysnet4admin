@@ -1,13 +1,13 @@
 ## CNCF & AAIF Ambassador  |  Cloud Native & AI Engineer
 
 <p align="left">
-<img src="https://images.credly.com/images/27cbafbd-c8b5-4050-9ffa-e62f352c1ca1/blob"                                       width="150">
+<img src="./assets/cncf_ambassador_circle.png"                                                                             width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubestronaut-stacked-color.png"                                    width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://images.credly.com/size/680x680/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png"                     width="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://images.credly.com/size/680x680/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png"     width="160">
+<img src="./assets/ccie_circle.png"                                                                                        width="160">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/aaif_ambassador_white.png">
