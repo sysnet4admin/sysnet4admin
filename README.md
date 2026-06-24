@@ -9,7 +9,10 @@
  
 <img src="https://images.credly.com/size/680x680/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png"     width="160">
 
-<img src="https://aaif.io/wp-content/uploads/2026/05/aaif_ambassador_colour.svg"                                            width="135">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/aaif_ambassador_white.png">
+  <img src="./assets/aaif_ambassador_colour.png"                                                                            width="135">
+</picture>
 </p>
 
 ***
