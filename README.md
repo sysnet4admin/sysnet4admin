@@ -13,6 +13,7 @@
 </p>
 
 ***
+<a href="https://promo.kuberneteslab.dev/en/"><img src="./assets/promo_banner.png" align="right" width="50%"></a>
 **Documents:** 
   - [KubernetesLab — K8s, Cloud Native & AI Research](https://kuberneteslab.dev/en/)
   
