@@ -13,4 +13,4 @@
 </p>
 
 ***
-<p><a href="https://kuberneteslab.dev/en/"><img src="./assets/kuberneteslab_banner.png" width="48.02%"></a><a href="https://promo.kuberneteslab.dev/en/"><img src="./assets/promo_banner.png" width="51.98%"></a></p>
+<p><a href="https://kuberneteslab.dev/en/"><img src="./assets/kuberneteslab_banner.png" width="48%"></a><a href="https://promo.kuberneteslab.dev/en/"><img src="./assets/promo_banner.png" width="52%"></a></p>
