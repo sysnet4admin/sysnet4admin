@@ -13,11 +13,4 @@
 </p>
 
 ***
-<a href="https://promo.kuberneteslab.dev/en/"><img src="./assets/promo_banner.png" align="right" width="50%"></a>
-**Documents:** 
-  - [KubernetesLab — K8s, Cloud Native & AI Research](https://kuberneteslab.dev/en/)
-  
-**Channels:**
-  - [Linkedin](https://www.linkedin.com/in/hoonjo/)
-  - [Github](https://github.com/sysnet4admin)
-  - [Youtube](https://www.youtube.com/HoonJo) 
+<p><a href="https://kuberneteslab.dev/en/"><img src="./assets/kuberneteslab_banner.png" width="50%"></a><a href="https://promo.kuberneteslab.dev/en/"><img src="./assets/promo_banner.png" width="50%"></a></p>
